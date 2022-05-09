@@ -38,14 +38,13 @@ I'm a mobile application developer, excellent analytical and design capabilities
  
  # Key things I've dealt with:
 - Clean Architecture
-- Google Architecture components
-- MVP/MVVM/MVC
+- Architecture components
+- MVP/MVVM/MVC/MVI
 - Single Activity
 - Dagger
 - Firebase/Room/SQLite/MySql
 - RxJava/Coroutines
 - GoogleMap
-- Retrofit/Volley
 - Sockets 
  
 
